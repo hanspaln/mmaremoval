@@ -1,0 +1,5 @@
+Subscription,SubscriptionId,ResourceGroupName
+Management ,xxxxxxx-xxxxxxx-xxxxxxx,demo-rg
+Management ,xxxxxxx-xxxxxxx-xxxxxxx,test-gallery-rg
+Identity,xxxxxxx-xxxxxxx-xxxxxxx,07-16-demo-machines-rg2
+Identity,xxxxxxx-xxxxxxx-xxxxxxx,07-16-demo-machines
